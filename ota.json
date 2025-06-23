@@ -1,0 +1,19 @@
+{
+  "version": "v20250622",
+  "date": "1750578020",
+  "gsi": "The Clover Project | by ChonDoe feat. TD",
+  "changelog": "https://raw.githubusercontent.com/ChonDoit/treble_clover_patches/15/changelog.txt",
+  "variants": [
+    {
+      "name": "Gapps",
+      "size": "4668473344",
+      "url": "https://github.com/ChonDoit/treble_clover_patches/releases/download/v20250622/CloverProject_A15-arm64-bgS_20250621.img.xz"
+    },
+    {
+      "name": "Slim",
+      "size": "4404019200",
+      "url": "https://github.com/ChonDoit/treble_clover_patches/releases/download/v20250622/CloverProject_A15-arm64-bgN-Slim_20250621.img.xz"
+    }
+  ]
+}
+
